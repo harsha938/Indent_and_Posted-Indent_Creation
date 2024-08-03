@@ -72,7 +72,7 @@ Indents are formal documents used to request the supply of goods or materials. I
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/harsha938/indent-posted-indent-bc.git
+    git clone https://github.com/harsha938/Indent_and_Posted-Indent_Creation.git
     ```
 
 2. Open the project in Visual Studio Code.
